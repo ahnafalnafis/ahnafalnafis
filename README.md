@@ -2,7 +2,7 @@
 
 **Language I'm know:**
  - Python (Learning)
- - Bash (Learning)
+ - Shell Script (Learning)
 
 **Tools I use:** 
  - **Operating Systems:** Arch Linux, Windows 7, Linux Mint (xfce)
