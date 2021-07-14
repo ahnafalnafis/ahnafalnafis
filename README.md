@@ -3,6 +3,7 @@
 **Language I'm know:**
  - Python (Learning)
  - Shell Script (Learning)
+ - HTML (Basics)
 
 **Tools I use:** 
  - **Operating Systems:** Arch Linux, Windows 7, Linux Mint (xfce)
