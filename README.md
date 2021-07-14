@@ -6,7 +6,7 @@
  - HTML (Basics)
 
 **Tools I use:** 
- - **Operating Systems:** Arch Linux, Windows 7, Linux Mint (xfce)
+ - **Operating Systems:** Arch Linux, Windows 7, Linux Mint
  - **Desktop Environment:** Xfce4
  - **Window Managers:** Bspwm, Xfwm4
  - **Terminal Emulator:** Alacritty, Git Bash
