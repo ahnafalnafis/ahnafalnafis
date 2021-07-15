@@ -11,6 +11,6 @@
  - **Window Managers:** Bspwm, Xfwm4
  - **Terminal Emulator:** Alacritty, Git Bash
  - **Browser:** Google Chrome, Qutebrowser
- - **Text editors:** Visual Studio Code, Neovim
+ - **Text editors:** Visual Studio Code, Neovim, Sometimes Visual Studio Code Insiders
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnafalnafis&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
