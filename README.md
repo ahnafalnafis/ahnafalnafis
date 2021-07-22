@@ -10,6 +10,7 @@
  - **Desktop Environment:** Xfce4
  - **Window Managers:** Bspwm, Xfwm4
  - **Terminal Emulator:** Alacritty, Git Bash
+ - **Shells:** Bash, Zsh
  - **Browser:** Google Chrome, Qutebrowser
  - **Text editors:** Visual Studio Code, Neovim, sometimes Visual Studio Code Insiders
 
