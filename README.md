@@ -22,4 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafalnafis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahnafalnafis)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahnafalnafis)](https://github.com/anuraghazra/github-readme-stats) -->
