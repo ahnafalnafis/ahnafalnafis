@@ -18,4 +18,8 @@
 - **Discord**: https://discord.gg/8WrZQF3WBx
 - **Twitter**: https://twitter.com/ahnafalnafis
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnafalnafis&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnafalnafis&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafalnafis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahnafalnafis)](https://github.com/anuraghazra/github-readme-stats)
