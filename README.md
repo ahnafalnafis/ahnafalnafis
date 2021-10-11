@@ -2,7 +2,7 @@
 
 **Language I'm know:**
 
-- Python (Learning)
+- Python (Basics)
 - HTML (Basics)
 
 **Contact:**
