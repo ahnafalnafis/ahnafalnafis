@@ -1,13 +1,15 @@
 <h1 align=center>Hello there, I'm Ahnaf 👋</h1>
 
-**Language I'm know:**
+**Languages that know:**
 
 - Python (Basics)
+- JavaScript (Basics)
+- TypeScript (Basics)
 - HTML (Basics)
+- CSS (Basics)
 
 **Contact:**
 
-- **Discord**: https://discord.gg/8WrZQF3WBx
 - **Twitter**: https://twitter.com/ahnafalnafis
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnafalnafis&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
