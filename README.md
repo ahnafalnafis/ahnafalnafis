@@ -3,6 +3,7 @@
 **Languages that know:**
 
 - Python (Basics)
+- C (Basics)
 - JavaScript (Basics)
 - TypeScript (Basics)
 - HTML (Basics)
