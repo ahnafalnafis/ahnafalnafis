@@ -2,11 +2,20 @@
 
 **Languages that I know:**
 
+<<<<<<< HEAD
 - Python (Intermediate)
 - JavaScript (Beginner)
 - TypeScript (Beginner)
 - HTML (Intermediate)
 - CSS (Beginner)
+=======
+- Python (Basics)
+- C (Basics)
+- JavaScript (Basics)
+- TypeScript (Basics)
+- HTML (Basics)
+- CSS (Basics)
+>>>>>>> refs/remotes/origin/main
 
 **Contact:**
 
