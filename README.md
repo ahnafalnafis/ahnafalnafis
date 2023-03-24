@@ -1,12 +1,12 @@
 <h1 align=center>Hello there, I'm Ahnaf 👋</h1>
 
-**Languages that know:**
+**Languages that I know:**
 
-- Python (Basics)
-- JavaScript (Basics)
-- TypeScript (Basics)
-- HTML (Basics)
-- CSS (Basics)
+- Python (Intermediate)
+- JavaScript (Beginner)
+- TypeScript (Beginner)
+- HTML (Intermediate)
+- CSS (Beginner)
 
 **Contact:**
 
