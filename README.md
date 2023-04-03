@@ -12,8 +12,7 @@
 
 **Contact:**
 
-[**Twitter**](https://twitter.com/ahnafalnafis)
-[**Discord**](https://discordapp.com/users/1091359138321268828)
+[**Twitter**](https://twitter.com/ahnafalnafis) &disc; [**Discord**](https://discordapp.com/users/1091359138321268828)
 
 **GitHub stats:**
 
