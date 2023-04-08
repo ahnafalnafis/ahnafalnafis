@@ -1,4 +1,6 @@
-<h1 align=center>Hello there, I'm Ahnaf 👋</h1>
+<h1 align=center>Hi there 👋</h1>
+
+I am front-end web developer based on Bangladesh. I enjoy learning new things and create stuff!
 
 **Languages that I know:**
 
@@ -16,6 +18,5 @@
 
 **GitHub stats:**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnafalnafis&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafalnafis&)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafalnafis&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Ahnaf's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafalnafis&theme=graywhite&hide_border=true" /></a> |
+| ------------- | ------------- |
